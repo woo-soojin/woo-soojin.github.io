@@ -5,7 +5,7 @@ title: How to install ROS Kinetic
 # featured-img: how-to-install-ros-kinetic
 # categories: ROS
 featured-img: emile-perron-190221
-categories: Guides
+categories: ROS
 ---
 
 <!-- # How to install ROS Kinetic -->
