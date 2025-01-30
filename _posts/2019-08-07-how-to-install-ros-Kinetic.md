@@ -2,13 +2,17 @@
 layout: post
 title: How to install ROS Kinetic
 # summary: Markdown is a way to style text on the web. You control the display of the document; formating words as bold or italic, adding images, and creating lists are just a few of the things we can do with Markdown. Mostly, Markdown is just regular text with a few non-alphabetic characters thrown in.
-featured-img: 
+featured-img: https://img.youtube.com/vi/qP9JaVhnSS0/maxresdefault.jpg
 categories: ROS
 ---
 
 <!-- # How to install ROS Kinetic -->
 
-[![My Video](https://img.youtube.com/vi/qP9JaVhnSS0/maxresdefault.jpg)](https://youtu.be/qP9JaVhnSS0?si=wY5DT3RtE8TeY69m)
+<!-- [![My Video](https://img.youtube.com/vi/qP9JaVhnSS0/maxresdefault.jpg)](https://youtu.be/qP9JaVhnSS0?si=wY5DT3RtE8TeY69m) -->
+
+<div style="text-align: center;">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/qP9JaVhnSS0?si=dZQY2t0PzN7XjXsj" frameborder="0" allowfullscreen></iframe>
+</div>
 
 ## 1. Install Ubuntu 16.04 LTS
 
