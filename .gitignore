@@ -10,6 +10,13 @@ npm-debug.log
 *.js.map
 maps
 
+# Custom #
+##########
+_posts/2016-05-20-super-long-article.md
+_posts/2016-05-20-welcome-to-jekyll.md
+_posts/2017-10-15-markdown-cheatsheet.md
+_posts/2017-11-26-getting-started.md
+
 # OS Generated files #
 ######################
 *.DS_Store
