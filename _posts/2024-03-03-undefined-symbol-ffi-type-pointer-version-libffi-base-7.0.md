@@ -1,6 +1,6 @@
 ---
 layout: post
-title: undefined symbol: ffi_type_pointer, version LIBFFI_BASE_7.0
+title: undefined symbol ffi_type_pointer, version LIBFFI_BASE_7.0
 # summary: Markdown is a way to style text on the web. You control the display of the document; formating words as bold or italic, adding images, and creating lists are just a few of the things we can do with Markdown. Mostly, Markdown is just regular text with a few non-alphabetic characters thrown in.
 # featured-img: how-to-install-ros-kinetic
 # categories: ROS
